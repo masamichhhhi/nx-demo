@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "projects": {
+    "nx-nest": "apps/nx-nest"
+  }
+}
